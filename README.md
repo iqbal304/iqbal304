@@ -1,0 +1,7 @@
+- 👋 Halo! Saya Iqbal Marjan.  
+- 👀 Saya tertarik pada pengembangan aplikasi berbasis web, Machine Learning, dan pengolahan citra digital.  
+- 🌱 Saat ini, saya sedang belajar lebih dalam tentang integrasi IoT dengan Python dan penerapan algoritma Machine Learning.  
+- 💞️ Saya ingin berkolaborasi dalam proyek yang melibatkan teknologi inovatif seperti sistem keamanan berbasis AI atau solusi berbasis data.  
+- 📫 Anda dapat menghubungi saya melalui email di iqbal.marjan@example.com.  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: Saya suka mencoba resep masakan baru di waktu luang dan menggabungkan dunia kuliner dengan teknologi melalui analisis data makanan.  
